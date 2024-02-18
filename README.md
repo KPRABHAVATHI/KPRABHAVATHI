@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KPRABHAVATHI
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning azure,pyspark
+- 🌱 I’m skilled in Sql,Python,Power BI,azure,pyspark
 - 💞️ I’m looking to collaborate on industrie's
 - 📫 How to reach me kprabhavathi544@gmail.com
 
